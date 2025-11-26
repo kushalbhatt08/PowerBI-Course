@@ -1,7 +1,3 @@
----
-title: "Power BI Learning Journey"
-output: github_document
----
 
 # 📊 Power BI Learning Journey — Growing Everyday as a Data Analyst
 
